@@ -54,75 +54,6 @@ body{
 	font-size:14px;
 	color:#888;
 }
-.pro-features {
-	position: fixed;
-	right: -300px;
-	width: 300px;
-	height: auto;
-	line-height: 46px;
-	font-size: 14px;
-	background: #fff;
-	text-align: left;
-	color: #333;
-	top: 50%;
-	transform:translateY(-50%);
-	box-shadow: -4px 0px 5px #00000036;
-	color: #fff;
-	z-index: 9999;
-	padding:20px 30px 30px 30px;
-	-webkit-transition:all 0.4s ease;
-	-moz-transition:all 0.4s ease;
-	transition:all 0.4s ease;
-}
-.pro-features.active{
-	right:0;
-}
-.pro-features li.big-title {
-	font-weight: 600;
-	color: #1A76D1;
-	font-size: 15px;
-}
-.pro-features li.title {
-	font-weight: 600;
-	color: #1A76D1;
-	font-size: 15px;
-}
-.pro-features .button{}
-.pro-features .button .btn {
-	width: 100%;
-	text-align: center;
-	margin-top: 8px;
-	display: inline-block;
-	float: left;
-	font-size: 13px;
-	width: 100%;
-	text-transform: capitalize;
-}
-.pro-features li {
-	color: #333;
-	margin: 0;
-	padding: 0;
-	line-height: 22px;
-	margin-bottom: 10px;
-}
-.get-pro {
-	position: absolute;
-	left: -80px;
-	width:80px;
-	height: 45px;
-	line-height: 45px;
-	font-size: 14px;
-	border-radius: 5px 0 0 5px;
-	background: #1A76D1;
-	text-align: center;
-	color: #fff;
-	top: 0;
-	cursor: pointer;
-	box-shadow: -4px 0px 5px #00000036;
-}
-.get-pro:hover{
-	
-}
 #scrollUp {
 	bottom: 15px;
 	right: 15px;
@@ -904,7 +835,7 @@ body{
 	padding:120px 0;
 }
 .fun-facts{
-	background:url('img/fun-bg.jpg');
+	background:url('https://via.placeholder.com/1600x350');
 	background-size:cover;
 	background-repeat:no-repeat;
 }
@@ -1010,7 +941,7 @@ body{
 .why-choose .choose-right{
 	height:100%;
 	width:100%;
-	background-image:url('img/video-bg.jpg');
+	background-image:url('https://via.placeholder.com/2000x1200');
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
@@ -1070,7 +1001,7 @@ body{
 	Start Call to action CSS
 =================================*/
 .call-action{
-	background-image:url('img/call-bg.jpg');
+	background-image:url('https://via.placeholder.com/2560x1200');
 	background-size:cover;
 	background-position:center;
 	position:relative;
@@ -1133,7 +1064,7 @@ body{
 	Start Portfolio CSS
 ============================*/
 .portfolio{
-	background:#FDFDFD;
+	background:#F9F9F9;
 }
 .portfolio .single-pf{
 	position:relative;
@@ -1376,7 +1307,7 @@ body{
   font-size: 32px;
 }
 .service-details-inner-left {
-  background-image: url("img/signup-bg.jpg");
+  background-image: url("https://via.placeholder.com/1920x1200");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1412,7 +1343,7 @@ body{
 	Start Testimonials CSS
 ===============================*/
 .testimonials{
-	background-image:url('img/testi-bg.jpg');
+	background-image:url('https://via.placeholder.com/1920x1000');
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
@@ -1444,8 +1375,8 @@ body{
 	position: absolute;
 	left: 30px;
 	bottom:-26px;
-	height: 53px;
-	width: 53px;
+	height: 55px;
+	width: 55px;
 	border-radius: 100%;
 }
 .testimonials .single-testimonial p{
@@ -1715,7 +1646,7 @@ body{
 	Start Clients CSS
 ==========================*/
 .clients{
-	background-image:url('img/client-bg.jpg');
+	background-image:url('https://via.placeholder.com/1600x280');
 	background-size:cover;
 	background-position:center;
 	padding:100px 0px;
@@ -1739,7 +1670,7 @@ body{
 	Start Team CSS
 ======================*/ 
 .team{
-	background-image:url('img/testi-bg.jpg');
+	background-image:url('https://via.placeholder.com/1920x1000');
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
@@ -2856,7 +2787,7 @@ body{
 	overflow:hidden;
 }
 .login .login-left{
-	background-image: url(img/signup-bg.jpg);
+	background-image: url(https://via.placeholder.com/1920x1200);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -3011,7 +2942,7 @@ body{
 	overflow:hidden;
 }
 .register .register-left{
-	background-image: url(img/signup-bg.jpg);
+	background-image: url(https://via.placeholder.com/1920x1200);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -3702,7 +3633,7 @@ body{
 .about-image {
   width: 100%;
   height: 100%;
-  background-image: url(img/about-img.jpg);
+  background-image: url(https://via.placeholder.com/900x750);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3871,7 +3802,7 @@ body{
 .our-mission-image {
   width: 100%;
   height: 100%;
-  background-image: url(img/mission-img.jpg);
+  background-image: url(https://via.placeholder.com/900x750);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;

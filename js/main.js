@@ -55,10 +55,6 @@ Version:	1.1
 			}
 		});
 		
-		$('.pro-features .get-pro').on( "click", function(){
-			$('.pro-features').toggleClass('active');
-		});
-		
 		/*====================================
 			Search JS
 		======================================*/ 
