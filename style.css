@@ -1437,6 +1437,11 @@ body {
   margin-bottom: 30px;
   background: transform;
   position: relative;
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 .departments .department-tab .nav li {
   text-align: center;
