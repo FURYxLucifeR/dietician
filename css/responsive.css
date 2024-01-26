@@ -143,8 +143,9 @@
     top: 0;
     height: 100%;
     width: 100%;
-    background: #fff;
-    opacity: 0.5;
+    background: #83b2d7;
+    backdrop-filter: blur(22px);
+    opacity: 0.9;
   }
   .slider .single-slider h1 {
     font-size: 28px;
@@ -584,8 +585,9 @@
     top: 0;
     height: 100%;
     width: 100%;
-    background: #fff;
-    opacity: 0.5;
+    background: #83b2d7;
+    backdrop-filter: blur(22px);
+    opacity: 0.9;
   }
   .slider .single-slider h1 {
     font-size: 28px;
