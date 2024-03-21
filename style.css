@@ -834,11 +834,13 @@ body {
   padding: 120px 0;
 }
 .fun-facts {
-  background: url("https://via.placeholder.com/1600x350");
+  /* background: url("https://via.placeholder.com/1600x350"); */
   background-size: cover;
   background-repeat: no-repeat;
 }
 .fun-facts .single-fun {
+  /* background: url("https://via.placeholder.com/1600x350"); */
+  background-color: none;
 }
 .fun-facts .single-fun i {
   position: absolute;
